@@ -1,8 +1,11 @@
 # AlexNet-demo
-This is our demo to reproduce AlexNet on pytorch.
+**This is our demo to reproduce AlexNet on pytorch**. Here's [my blog](https://www.cnblogs.com/hjxin02Aisharing-wust/p/17526775.html) on some interpretations of the AlexNet paper.
 
-
+The AlexNet paper《**ImageNet Classification with Deep Convolutional Neural Networks**》,you can download it [here](https://dl.acm.org/doi/pdf/10.1145/3065386).
+![image](https://github.com/Hjxin02AIsharing-Wust/AlexNet-demo/blob/main/image-texture/The%20Image%20Of%20AlexNet%20Network%20Structure.png)
 The overall network structure of AlexNet includes: 1 input layer, 5 convolutional layers (C1, C2, C3, C4, C5), 2 fully connected layers (FC6, FC7) and 1 output layer.
+
+
 
 ## Dataset
 The dataset uses more than 4000 images in 5 categories, you can download it [here](https://drive.google.com/drive/folders/1z2d7UejBR55QY8dc2GOmSkyfi8C-vUBs).
@@ -25,8 +28,8 @@ We provide the test code：
 ```shell
 python test.py
 ```
-You can use our provided model weights `AlexNet.pth` and test image `roseflower.png`, of course, you can also use your own.
-This is our test result
+You can use our provided model weights [`AlexNet.pth`](https://drive.google.com/drive/folders/1uGx3-N93r2uie8_elHj_TqGk5muBhpkx) and test image `roseflower.png`, of course, you can also use your own.
+This is our test result.
 
 
 
