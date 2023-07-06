@@ -34,6 +34,9 @@ You can use our provided model weights [`AlexNet.pth`](https://drive.google.com/
 This is our test result.
 
 
+![image](https://github.com/Hjxin02AIsharing-Wust/AlexNet-demo/blob/main/image-texture/The%20Image%20Of%20Our%20Test%20result.png)
+
+
 
 
 
