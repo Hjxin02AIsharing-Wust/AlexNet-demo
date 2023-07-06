@@ -5,6 +5,8 @@ The AlexNet paper《**ImageNet Classification with Deep Convolutional Neural Net
 ![image](https://github.com/Hjxin02AIsharing-Wust/AlexNet-demo/blob/main/image-texture/The%20Image%20Of%20AlexNet%20Network%20Structure.png)
 The overall network structure of AlexNet includes: 1 input layer, 5 convolutional layers (C1, C2, C3, C4, C5), 2 fully connected layers (FC6, FC7) and 1 output layer.
 
+ALexNet shines in the 2012 image recognition competition ILSVRC, directly reducing errors by nearly 10 percentage points.
+![image](https://github.com/Hjxin02AIsharing-Wust/AlexNet-demo/blob/main/image-texture/The%20Image%20Of%20AlexNet%20Test%20result.png)
 
 
 ## Dataset
@@ -30,6 +32,7 @@ python test.py
 ```
 You can use our provided model weights [`AlexNet.pth`](https://drive.google.com/drive/folders/1uGx3-N93r2uie8_elHj_TqGk5muBhpkx) and test image `roseflower.png`, of course, you can also use your own.
 This is our test result.
+
 
 
 
